@@ -18,7 +18,7 @@ https://github.com/shylocks/Loon  短期任务
 https://github.com/EvineDeng/jd-base  shell套壳工具
 
 
-nobyda（野比大佬）：https://github.com/NobyDa/Script（京东签到、爱奇艺、哔哩漫画、百度贴吧、吾爱破解）
+nobyda（野比大佬）：https://github.com/NobyDa/Script （京东签到、爱奇艺、哔哩漫画、百度贴吧、吾爱破解）
 yichahucha:https://github.com/yichahucha/surg Netflix京东/淘宝商品历史价格显示，etflix电影评分显示）
 sazs34：https://github.com/sazs34/TaskConfig （多合一签到、天气提醒等）
 chavyleung:https://github.com/chavyleung/scripts （ bilibili，签到狂魔大佬的地址，bilili，马拉雅，腾讯视频爱奇艺什么值得买等）
