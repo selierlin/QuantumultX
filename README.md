@@ -2,10 +2,9 @@
 
 保存圈叉相关的配置
 
+https://github.com/weifee/quantumultx (有教程有群组，全面)
 
 https://github.com/LXK9301/jd_scripts/tree/master
-
-https://github.com/weifee/quantumultx
 
 https://www.youtube.com/watch?v=pLZDK9SACLQ&feature=youtu.be
 
@@ -16,6 +15,8 @@ https://github.com/LXK9301/jd_scripts  长期任务
 https://github.com/shylocks/Loon  短期任务
 
 https://github.com/EvineDeng/jd-base  shell套壳工具
+
+
 
 
 nobyda（野比大佬）：https://github.com/NobyDa/Script （京东签到、爱奇艺、哔哩漫画、百度贴吧、吾爱破解）
